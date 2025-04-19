@@ -1,13 +1,14 @@
 {
   "name": "Forge Server Codespace",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
-  "postCreateCommand": "\
-    curl -fsSL https://repos.azul.com/zulu-apt/azul.gpg | sudo apt-key add - && \
-    sudo apt-add-repository 'deb https://repos.azul.com/zulu/deb stable main' && \
-    sudo apt-get update && \
-    sudo apt-get install -y zulu17-jdk && \
-    java -version \
-  ",
+"postCreateCommand": "\
+  sudo apt-get update && sudo apt-get install -y gnupg software-properties-common curl && \
+  mkdir -p /etc/apt/keyrings && \
+  curl -fsSL https://repos.azul.com/zulu-apt/azul.gpg | gpg --dearmor | sudo tee /etc/apt/keyrings/azul.gpg > /dev/null && \
+  echo 'deb [signed-by=/etc/apt/keyrings/azul.gpg] https://repos.azul.com/zulu/deb stable main' | sudo tee /etc/apt/sources.list.d/zulu.list && \
+  sudo apt-get update && \
+  sudo apt-get install -y zulu17-jdk && \
+  java -version"
   "customizations": {
     "vscode": {
       "extensions": [
