@@ -8,7 +8,7 @@
   echo 'deb [signed-by=/etc/apt/keyrings/azul.gpg] https://repos.azul.com/zulu/deb stable main' | sudo tee /etc/apt/sources.list.d/zulu.list && \
   sudo apt-get update && \
   sudo apt-get install -y zulu17-jdk && \
-  java -version"\
+  java -version",
   
   "customizations": {
     "vscode": {
