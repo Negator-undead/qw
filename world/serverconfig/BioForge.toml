@@ -1,0 +1,162 @@
+
+[Virus]
+	#How much damage will be caused to armor
+	"Infectivity First Level Armor Damage" = 1.0
+	"Infectivity Second Level Armor Damage" = 2.0
+	"Infectivity Third Level Armor Damage" = 3.0
+	#Change time how much it takes to do something but in ticks (20 ticks = 1 second)
+	"Infection Rate First level" = 300.0
+	"Infection Rate Second level" = 200.0
+	"Infection Rate Third level" = 100.0
+	#Numbers are in blocks
+	"Spread Radius First level" = 2.0
+	"Spread Radius Second level" = 4.0
+	"Spread Radius Third level" = 6.0
+	#Input time in ticks(20 ticks = 1 second)
+	"Survivability First Level" = 36000.0
+	"Survivability Second Level" = 72000.0
+	"Survivability Third Level" = 108000.0
+	#Deviding amount of survivability if virus is in hot/cold biome don't have heat/cold resistance
+	"Heat/Cold Deviding amount" = 2.0
+	#Deviding amount of survivability if virus is in hot/cold biome with Temperature Sensitive trait
+	"Temperature Sensitive deviding amount" = 4.0
+	#Deviding amount of survivability if virus is in hot/cold biome with wrong type of resistance
+	"Wrong Resistance deviding amount" = 3.0
+	#How much ticks(20 ticks = 1 second) needed for one adaptation point
+	"Adaptation speed First level" = 500.0
+	"Adaptation speed Second level" = 300.0
+	"Adaptation speed Third level" = 150.0
+	#How much adaptation point's needed for virus to adapt to Cold
+	"Point's needed to adapt Cold resistance" = 10.0
+	#How much adaptation point's needed for virus to adapt to Heat
+	"Point's needed to adapt Heat resistance" = 10.0
+	#How much adaptation point's needed for virus to adapt to Heat and Cold
+	"Point's needed to adapt Temperature Unsensitive" = 10.0
+	#Set a number to one smaller than desired number
+	"Max Adaptation points survivability boost" = 9.0
+	#How much ticks gives every adaptation point
+	"Adaptation point's multiplier" = 1000.0
+	#How much ticks(20 ticks = 1 second) needed to be passed to try Self-Destruct virus
+	"Self-Destruction Factor Speed" = 200.0
+	#How much ticks(20 ticks = 1 second) takes to try mutate
+	"Mutation Speed First Level" = 600.0
+	"Mutation Speed Second Level" = 300.0
+	"Mutation Speed Third Level" = 150.0
+	#How much ticks(20 ticks = 1 second) needs to be passed after mutation to try mutate again
+	"Mutation Cooldown" = 2800.0
+	#Numbers are in blocks
+	"Cough Radius First Level" = 2.0
+	"Cough Radius Second Level" = 4.0
+	"Cough Radius Third Level" = 6.0
+	#Numbers are in blocks
+	"Sneeze Radius First Level" = 4.0
+	"Sneeze Radius Second Level" = 6.0
+	"Sneeze Radius Third Level" = 8.0
+	#Min. temperature that entity will get with fever
+	"Min Fever Temperature" = 37.5
+	#Max. temperature that entity will get with fever
+	"Max Fever Temperature" = 40.0
+	#Min. temperature that will damage entity
+	"Fire damage Temperature" = 38.5
+	#How often fire will attack entity set time in ticks(20 ticks = 1 second)
+	"Fire Damage Rate" = 100.0
+	#How much damage fire will do
+	"Fire Damage" = 2.0
+	#Normal temperature that entity will have
+	"Normal Entity Temperature" = 36.6
+	#How much ticks(20 ticks = 1 second) needs to be passed for virus to fully incubate
+	"Incubation Time First Level" = 1200.0
+	"Incubation Time Second Level" = 6000.0
+	"Incubation Time Third Level" = 12000.0
+	#How much ticks(20 ticks = 1 second) needs to be passed for virus that has Flesh Cravings symptom to want meat?
+	"Flesh Craving Time" = 6000.0
+	#How much any flower will give polenation ticks(20 Ticks = 1 second)?
+	"Pollination Dependency Flowers give time" = 6000.0
+
+[Mutations]
+	#How much ticks(20 ticks = 1 second) light needs to hit player
+	"Light Sensitive " = 40.0
+	#How much ticks(20 ticks = 1 second) needs to eat grass on floor
+	"Grass Eater Time" = 80.0
+	#How much ticks(20 ticks = 1 second) needs to be passed for virus that has Grass Dependency symptom to want grass?
+	"Grass Dependency Time" = 6000.0
+	#How much ticks(20 ticks = 1 second) will effects apply from hay products
+	"Hay Infusion/Allergy Time" = 600.0
+
+["Item's"]
+	#Set duration in ticks(20 ticks = 1 second)
+	"Honey Cough Pervention Duration" = 6000.0
+	#How much ticks(20 ticks = 1 second) needed for remove drunkness by one level
+	"Drunk time" = 2400.0
+	#Max drunkness level
+	"Max Drunkness level" = 5.0
+	#At what level drunkness effect will kick in
+	"Drunkness kick in" = 3.0
+	#How much ticks(20 ticks = 1 second) effects from drugs will be applied
+	"Antiviral Drugs Time" = 6000.0
+	#How much ticks(20 ticks = 1 second) effects from drugs will be applied
+	"Anti Paranoia Time" = 6000.0
+
+[Entitie]
+	#How much ticks(20 ticks = 1 seconds) needed to regen 1 blood out of max blood level
+	"Blood Level Regen" = 200.0
+	#Max blood level that every entitie can handle till bad effects
+	"Max blood level" = 50.0
+	#When effects start to kick in
+	"Low blood level" = 40.0
+
+[Blocks]
+	#How much ticks(20 ticks = 1 second) needed for centrifuge to shake item's
+	"Centrifuge Ticks Recipies" = 175.0
+	#How much ticks(20 ticks = 1 second) needed for barrel press to make item
+	"Barrel Press Ticks Recipies" = 3000.0
+	#Ticks(20 ticks = 1 second) needed to analyze something in Virus Analyzer
+	"Virus Analyzer analyzation speed" = 1200.0
+	#How much ticks(20 ticks = 1 second) needed to sterilize item's in chamber
+	"Sterilization Chamber sterilization time" = 600.0
+	#How much ticks(20 ticks = 1 sercond) incubator needs to incubate viruses
+	"Incubat time needs" = 2400.0
+	#How much ticks(20 ticks = 1 second) needed for checking
+	"Virus Testing Chamber Check Time" = 1600.0
+	#How much ticks(20 ticks = 1 second) will floor viral scanner give redstone signal
+	"Floor Viral Scanner Redstone signal ticks" = 120.0
+
+[Checkings]
+	#(Don't change)
+	"Primary Symptom Check Amount" = 8.0
+	"Debuff Effects Check Amount" = 7.0
+	"Bad Mutations Check Amount" = 13.0
+	"Good Mutations Check Amount" = 16.0
+	"Check and Give Virus to Mobs" = 1.0
+
+["Addons Creation Checks"]
+	"Turn On/Off Addons" = false
+	#How much custom symptoms are there in files?(+1 From max. file number)
+	"Custom Primary Symptoms Number" = 0.0
+	#How much custom debuffs are there in files?(+1 From max. file number)
+	"Custom Debuffs Number" = 0.0
+	#How much custom bad mutations are there in files?(+1 From max. file number)
+	"Custom Bad Mutations Number" = 0.0
+	#How much custom good mutations are there in files?(+1 From max. file number)
+	"Custom Good Mutations Number" = 0.0
+	#How much custom giving mobs virus are there in files?(+1 From max. file number)
+	"Custom Check and Give Virus to Mobs" = 0.0
+	#How much custom syringe attribute mobs virus are there in files?(+1 From max. file number)
+	"Syringe Mobs Attributes Check" = 0.0
+	#How much custom crafts are there in files?(+1 From max. file number)
+	"Centrifuge Custom Crafts" = 0.0
+	#How much custom crafts are there in files?(+1 From max. file number)
+	"Barrel Press Custom Crafts" = 0.0
+	#How much custom crafts are there in files?(+1 From max. file number)
+	"Sterilization Chamber Custom Crafts" = 0.0
+	#How much custom crafts are there in files?(+1 From max. file number)
+	"Chemical Synthesizer Custom Crafts" = 0.0
+	#How much custom buckets that used in crafts are there in files?(+1 From max. file number)
+	"Custom Chemical Synthesizer Buckets" = 0.0
+	#How much custom crafts are there in files?(+1 From max. file number)
+	"Pharma Mixer Custom Crafts" = 0.0
+	#How much custom buckets that used in crafts are there in files?(+1 From max. file number)
+	"Custom Pharma Mixer Buckets" = 0.0
+	#How much custom crafts are there in files?(+1 From max. file number)
+	"Immuno Synthesizer Custom Crafts" = 0.0
+

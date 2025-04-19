@@ -1,0 +1,598 @@
+{
+  "idas:idas_root": {
+    "criteria": {
+      "always": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinadvancement": {
+    "criteria": {
+      "firstjoinadvancement_0": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:abyssal": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:toxic": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:root": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "butcher:firstjoinmessage": {
+    "criteria": {
+      "firstjoinmessage_0": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:magnetic": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:grant_patchouli": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "p_sing:give_suits": {
+    "criteria": {
+      "requirement": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "sgoc:root": {
+    "criteria": {
+      "requirement": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "terramity:terramity_parent_advancement": {
+    "criteria": {
+      "terramity_parent_advancement_0": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:grant_book_on_first_join_adv": {
+    "criteria": {
+      "grant_book_on_first_join_adv": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_acknowledgment": {
+    "criteria": {
+      "has_iron_ingot": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:forlorn": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "p_sing:root": {
+    "criteria": {
+      "requirement": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "heroes:root": {
+    "criteria": {
+      "Join World": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:candy": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexscavesexemplified:primordial": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobsinteraction:root": {
+    "criteria": {
+      "tick": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "ice_and_fire_delight:root": {
+    "criteria": {
+      "root": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:recipes/generic/the_twist": {
+    "criteria": {
+      "has_parent_recipe": "2025-04-19 16:47:30 +0000"
+    },
+    "done": false
+  },
+  "integrated_villages:integrated_villages_root": {
+    "criteria": {
+      "always": "2025-04-19 16:47:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/crank": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/package_filter": {
+    "criteria": {
+      "has_item": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_orange": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_magenta": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/appliances/chain_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass": {
+    "criteria": {
+      "has_recipe": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-19 16:54:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-19 16:54:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_pink": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-04-19 16:54:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-19 16:54:15 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/slingshot": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_black": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_green": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_purple": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_white": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-04-19 16:54:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/timber_cross_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_brown": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_gray": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/flint_knife": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/faucet": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "biomancy:recipes/biomancy/digesting/nutrient_paste_from_saplings": {
+    "criteria": {
+      "has_saplings": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_blue": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-19 16:54:22 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_brace": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_blue": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/daub_frame": {
+    "criteria": {
+      "forge:rods/wooden": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_cyan": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_yellow": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_light_gray": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_red": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-19 16:54:34 +0000",
+      "minecraft:forest": "2025-04-19 16:50:41 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/decorations/cutting_board": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2025-04-19 16:54:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-19 16:55:54 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/flags/flag_lime": {
+    "criteria": {
+      "has_stick": "2025-04-19 16:58:01 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

@@ -1,0 +1,61 @@
+
+["Primary Symptoms"]
+	#Pervent's and removes those symtpoms from anything that has it(Works only for entities. Items will still have them)
+	Slowness = true
+	Nausea = true
+	Weakness = true
+	FleshCravings = true
+	Sneeze = true
+	Cough = true
+	Fever = true
+
+["Debuff Effects"]
+	#Pervent's and removes those debuffs from anything that has it(Works only for entities. Items will still have them)
+	Blindness = true
+	Poison = true
+	"Health Down" = true
+	Hunger = true
+	"Amphibious Fatigue" = true
+	"Pollination Dependency" = true
+	"Hay Allergy" = true
+
+["Good Mutations"]
+	#Pervent's and removes those mutations from anything that has it(Works only for entities. Items will still have them)
+	"Fast Regen" = true
+	"Speed Boost" = true
+	"Poison resistance" = true
+	"Blindness resistance" = true
+	"Self respiration" = true
+	"Strong skin" = true
+	Climbing = true
+	Strenght = true
+	"Night vision" = true
+	Chameleon = true
+	"Grass Eater" = true
+	"Water Camouflage" = true
+	"Bartering Instinct" = true
+	"Pollinator’s Grace" = true
+	"Hay Infusion" = true
+
+["Bad Mutations"]
+	#Pervent's and removes those mutations from anything that has it(Works only for entities. Items will still have them)
+	"Speed Bursts" = true
+	"Water Allergy" = true
+	"Light sensitive" = true
+	Fatigue = true
+	"Weak grip" = true
+	"Night blindness" = true
+	"Hyper metabolism" = true
+	"Panic Attacks" = true
+	Paranoia = true
+	"Grass Dependency" = true
+	"Emerald Fumes" = true
+	"Honey D_P_C" = true
+
+["Transmission Types"]
+	#Pervent's, disables and removes those transmission types from anything that has it(Works only for entities. Items will still have them(But will not work))
+	FoodBorne = true
+	WaterBorne = true
+	Contact-based = true
+	AirBorne = true
+

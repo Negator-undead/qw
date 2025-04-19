@@ -1,0 +1,103 @@
+[17:35:10] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[17:35:10] [INIT] Loaded plugins:
+[17:35:10] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[17:35:10] [INIT] - net.threetag.palladium.compat.kubejs.PalladiumKubeJSPlugin
+[17:35:10] [INIT] - com.jesz.createdieselgenerators.compat.kubejs.CDGKubeJSPlugin
+[17:35:10] [INIT] - com.tom.createores.kubejs.KubeJSExcavation
+[17:35:16] [INFO] example.js#5: Hello, World! (Loaded server scripts)
+[17:35:16] [INFO] Loaded script server_scripts:example.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_p_sing:kubejs_scripts/teleport_command.js in 0.002 s
+[17:35:16] [INFO] Loaded script addonpack_p_sing:kubejs_scripts/receive_power_selected.js in 0.0 s
+[17:35:16] [INFO] addonpack_p_sing:kubejs_scripts/prevent_damage.js#3: Loaded Java class 'net.minecraft.network.protocol.game.ClientboundSetEntityMotionPacket'
+[17:35:16] [INFO] Loaded script addonpack_p_sing:kubejs_scripts/prevent_damage.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_theft.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/toggle_hud.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/spatial_travel_command.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_death.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/prevent_damage.js in 0.002 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/intuitive_teach.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/heroes_superpower_command.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_heroes:kubejs_scripts/clairvoyance.js in 0.003 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/xp.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench_items.js in 0.002 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/workbench.js in 0.023 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/quick_change.js in 0.003 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/pod_loot.js in 0.002 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/playlist_command.js in 0.003 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/palladium_properties.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/nbt_omnitrix.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/level_command.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/hit.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/flammable_block.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/failsafe.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/code_hints.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/break_block.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_alienevo:kubejs_scripts/alien_death.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/wiki.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/toggle_tp.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/space_travel.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/skill_points.js in 0.009 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/receive_power_selected.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/reality_tool.js in 0.002 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/reality_armor.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/prevent_damage.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/power_command.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/nodrop.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/max_energy.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/create_item.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_sgoc:kubejs_scripts/check_adaptation.js in 0.002 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/technique_removal.js in 0.005 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/inherit_special_technique.js in 0.008 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/creative_items.js in 0.006 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_creator/weather_change.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_creator/the_creator.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/the_destroyer/the_destroyer.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_powers/commandments/commandment_chat.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/items/eye_of_balor.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/items/ancient_relic.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/fairy/enchantment_hard_protection.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/combo_star/combo_star.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/six_tails/slip_beast_form.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/six_tails/slip.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/ominous_nebula/full_react.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/one_punch.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/damage_bypass.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/limit_breaker_damage_taken.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limit_breaker/limit_breaker_damage_dealt.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/rinnegan/rinnegan_revive.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/rinnegan/rinnegan_scan.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/full_counter_physical/full_counter.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/geass_absolute_obedience/geass_slave.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_genjutsu_hurt.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/kamui_pull.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_abilities.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/susanoo_damage_taken.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_use_time.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/sharingan_copy_remove.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sharingan/genjutsu_cancel_damage.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/full_counter_magical/revenge_counter.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/byakugan/byakugan_abilities.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/bubble/bubble_dome.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/sunshine/sunshine.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/l_drago/power_punch.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/l_drago/damage_dealt.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/l_drago/damage_taken.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/ratio/ratio.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/special_technique/limitless/six_eyes.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/energy_bar.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/stat_scan.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/dynamic_damage_particle.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/invulnerability.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/attribute_limiter.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/invulnerability_counterable.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/teleport.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/logged_out.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/base_eye_remove.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/module.js in 0.001 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/generic/food_eaten.js in 0.0 s
+[17:35:16] [INFO] Loaded script addonpack_knights_of_britannia:kubejs_scripts/goddess/possess_damage_taken.js in 0.0 s
+[17:35:16] [INFO] Loaded 90/90 KubeJS server scripts in 0.132 s with 0 errors and 0 warnings
+[17:35:16] [INFO] Scripts loaded
+[17:35:18] [INFO] [minecraft:block] Found 792 tags, added 9 objects, removed 0 objects
+[17:35:18] [INFO] [minecraft:item] Found 1345 tags, added 3 objects, removed 0 objects
+[17:35:30] [INFO] Server resource reload complete!
