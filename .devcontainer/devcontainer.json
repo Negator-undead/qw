@@ -1,4 +1,19 @@
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {}
+  "name": "Forge Server Codespace",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "postCreateCommand": "\
+    curl -fsSL https://repos.azul.com/zulu-apt/azul.gpg | sudo apt-key add - && \
+    sudo apt-add-repository 'deb https://repos.azul.com/zulu/deb stable main' && \
+    sudo apt-get update && \
+    sudo apt-get install -y zulu17-jdk && \
+    java -version \
+  ",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "vscjava.vscode-java-pack"
+      ]
+    }
+  }
 }
+
