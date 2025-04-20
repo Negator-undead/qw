@@ -2,10 +2,16 @@
   "name": "Forge Server Codespace",
   "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
   "postCreateCommand": "\
-    curl -fsSL https://repos.azul.com/zulu-apt/azul.gpg | sudo apt-key add - && \
-    sudo apt-add-repository 'deb https://repos.azul.com/zulu/deb stable main' && \
-    sudo apt-get update && \
-    sudo apt-get install -y zulu17-jdk && \
+    curl -fsSL https://cdn.azul.com/zulu/bin/zulu17.48.15-ca-jdk17.0.10-linux_x64.tar.gz -o zulu17.tar.gz && \
+    sudo mkdir -p /usr/lib/jvm && \
+    sudo tar -xvzf zulu17.tar.gz -C /usr/lib/jvm && \
+    sudo update-alternatives --install /usr/bin/java java /usr/lib/jvm/zulu17.48.15-ca-jdk17.0.10-linux_x64/bin/java 1 && \
+    sudo update-alternatives --install /usr/bin/javac javac /usr/lib/jvm/zulu17.48.15-ca-jdk17.0.10-linux_x64/bin/javac 1 && \
+    sudo update-alternatives --set java /usr/lib/jvm/zulu17.48.15-ca-jdk17.0.10-linux_x64/bin/java && \
+    sudo update-alternatives --set javac /usr/lib/jvm/zulu17.48.15-ca-jdk17.0.10-linux_x64/bin/javac && \
+    echo 'export JAVA_HOME=/usr/lib/jvm/zulu17.48.15-ca-jdk17.0.10-linux_x64' >> ~/.bashrc && \
+    echo 'export PATH=$JAVA_HOME/bin:$PATH' >> ~/.bashrc && \
+    source ~/.bashrc && \
     java -version \
   ",
   "customizations": {
