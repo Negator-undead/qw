@@ -60,6 +60,8 @@
 	disable_defeating_sculk_horde = false
 	#Add entities to this list to stop the sculk horde from attacking them. I.E. minecraft:creeper. Be careful what you put in here, this can potentially lead to issues.
 	sculk_horde_target_blacklist = [""]
+	#Should GPU compatibility mode be enabled? This Fixes Sculk mobs appearing black by removes glow layers from Sculk mobs. May be necessary for some GPU's like AMD or MAC's. Game Restart Required. (Default false)
+	enable_gpu_compatibility_mode = false
 
 ["Trigger Automatically Variables"]
 	#Should the Sculk Horde start automatically? Requires that chunk loading is enabled to work reliably, otherwise will only trigger if the ancient node's chunk is loaded. If enabled on a save where previously disabled, the node will trigger automatically if the time conditions are met. (Default false)

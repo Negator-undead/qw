@@ -1,0 +1,102 @@
+{
+	"level_seeds": [
+		{
+			"dim": "createteleporters:pocket_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "heroes:pocket_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:knights_of_britannia/kamui_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "speedforce_by_yofadda:the_negative_speedforce",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "sgoc:reality_warp",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "sgoc:pocket_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "speedforce_by_yofadda:the_speedforce",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "witherstormmod:bowels",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -7424068012001481329
+		}
+	],
+	"structure_seeds": [
+		{
+			"dim": "createteleporters:pocket_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "heroes:pocket_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:knights_of_britannia/kamui_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "speedforce_by_yofadda:the_negative_speedforce",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "sgoc:reality_warp",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "sgoc:pocket_dimension",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:the_nether",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "mahoutsukai:reality_marble",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "speedforce_by_yofadda:the_speedforce",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:overworld",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "witherstormmod:bowels",
+			"seed": -7424068012001481329
+		},
+		{
+			"dim": "minecraft:the_end",
+			"seed": -7424068012001481329
+		}
+	]
+}

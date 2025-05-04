@@ -1,7 +1,7 @@
 
 [general]
 	#Enabled some hidden/planned content, that is currently not finished or unused
-	experimentalFeatures = true
+	experimentalFeatures = false
 
 [worldGen]
 	redstoneFluxCrystalGeneration = true
